@@ -6,9 +6,20 @@ This project aims to create photo-realistic synthetic cars using gen-erative adv
 
 Below is provided a short explanation on the jupyter files that this repository is consisted of.
 
-The project flow
+The project flow is illustrated below.
 
 ![alt text](https://github.com/georgezefko/car-part-segmentation/blob/main/workflow.png?raw=true)
 
--GAN_Deconvolution
+**-GAN_Deconvolution**
+Refers to one of the two architectures tested and it is built as DCGAN. 
+
+**-Gan_Interpolation**
+Refers to the second architecture tested. Simple interpolation applied as upsampling instead of trasposed convolution
+in order to obtain smoother images.
+
+**-Pix2PixNVIDIA**
+The[pix2pixHD](https://github.com/NVIDIA/pix2pixHD)  made by NVIDIA cloned in order to generate photorealistic images. 
+
+**-FID_Pix2Pix**
+In order to calculate the FID score on the images generated from pix2pix we cloned the official implementation of [FID score for Pytorch](https://github.com/mseitzer/pytorch-fid)
 
