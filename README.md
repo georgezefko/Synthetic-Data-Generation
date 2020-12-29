@@ -6,5 +6,9 @@ This project aims to create photo-realistic synthetic cars using gen-erative adv
 
 Below is provided a short explanation on the jupyter files that this repository is consisted of.
 
--GAN_Deconvolutional
+The project flow
+
+
+
+-GAN_Deconvolution
 
