@@ -8,7 +8,7 @@ Below is provided a short explanation on the jupyter files that this repository 
 
 The project flow
 
-![alt text](https://github.com/georgezefko/car-part-segmentation/blob/mainbranch/workflow.png?raw=true)
+![alt text](https://github.com/georgezefko/car-part-segmentation/blob/main/workflow.png?raw=true)
 
 -GAN_Deconvolution
 
