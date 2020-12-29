@@ -20,6 +20,6 @@ in order to obtain smoother images.
 **-Pix2PixNVIDIA**
 The [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)  made by NVIDIA cloned in order to generate photorealistic images. 
 
-**-FID_Pix2Pix**
+**-FID_Pix2PixHD**
 In order to calculate the FID score on the images generated from pix2pix we cloned the official implementation of [FID score for Pytorch](https://github.com/mseitzer/pytorch-fid)
 
