@@ -8,7 +8,7 @@ Below is provided a short explanation on the jupyter files that this repository 
 
 The project flow is illustrated below.
 
-![alt text](https://github.com/georgezefko/car-part-segmentation/blob/main/workflow.png?raw=true)
+![alt text](https://github.com/georgezefko/Synthetic-Data-Generation/blob/main/workflow.png?raw=true)
 
 **-GAN_Deconvolution**
 Refers to one of the two architectures tested and it is built as DCGAN. 
