@@ -10,6 +10,12 @@ The project flow is illustrated below.
 
 ![alt text](https://github.com/georgezefko/Synthetic-Data-Generation/blob/main/workflow.png?raw=true)
 
+**-Read_data**
+Code that includes data preprocessing such cropping and store them in correct folders
+
+**-Deloitte data preprocessing**
+The file contains the process followed in order to create the masks.
+
 **-GAN_Deconvolution**
 Refers to one of the two architectures tested and it is built as DCGAN. 
 
