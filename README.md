@@ -29,3 +29,8 @@ The [pix2pixHD](https://github.com/NVIDIA/pix2pixHD)  made by NVIDIA cloned in o
 **-FID_Pix2PixHD**
 In order to calculate the FID score on the images generated from pix2pix we cloned the official implementation of [FID score for Pytorch](https://github.com/mseitzer/pytorch-fid)
 
+# Improvement points and future work
+ -  The data fed into the model should be balancedand exclude data with dissimilar semantic sizes.
+ -  To overcome the limitations related to Stage-I process, we canuse an Auxiliary Classifier GAN . 
+ -  For a better generation of photo-realistic images, we should give more data to pix2pixmodel during training.  
+ -  The next step of the project will be to build a semantic segmentationmodel, to capture car parts on the synthetic images
