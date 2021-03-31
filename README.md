@@ -10,7 +10,7 @@ The project flow is illustrated below.
 
 ![alt text](https://github.com/georgezefko/Synthetic-Data-Generation/blob/main/workflow.png?raw=true)
 
-**-Syntehtic_data_generation**
+**-Syntehtic_Data_Deneration**
 This file containt the full written report on the project. 
 You can read to understand the logic and scope behind the model. 
 You will also get a better understanding about the process, limitations and future work of the project.
